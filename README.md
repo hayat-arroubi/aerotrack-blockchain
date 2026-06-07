@@ -46,4 +46,4 @@ autorisées peuvent agir.
 ## Auteur
 
 Hayat ARROUBI — ENSEM, Université Hassan II de Casablanca
-Encadré par : Khalid BOKHDIR — Année universitaire 2024–2025
+Encadré par : Khalid BOUKHDIR — Année universitaire 2024–2025
